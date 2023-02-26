@@ -1,0 +1,11 @@
+Build (Билд) 
+Enviromnet (Окружение)
+Test date (Дата проведения)
+Tester (Автор ФИО)
+Test Type (Тип теста)
+Checing (Проверка)
+Input data set (Набор входных данных)
+Expected Result (Ожидаемый результат) 
+Status (Отметка о прохождении)
+Сomments (Комментарии)
+
